@@ -5,6 +5,7 @@ public class AdiosMundo { // Clase principal
     String reset = "\033[0m";
       System.out.println(naranja+"¡Adios mundo!"); //Imprime en naranja
       System.out.println(verde+"Pero... volveré"+reset); //Imprime en verde
-  }
+System.out.println("Jose estuvo aqui");  
+}
 }
 
